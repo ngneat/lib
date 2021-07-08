@@ -89,7 +89,7 @@ const libWOSchematicsResultFiles = [
   "/LICENSE",
   "/logo.svg",
   "/hooks/pre-commit.js",
-  "/.github/ISSUE_TEMPLATE.md",
+  "/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.yml",
   "/.github/PULL_REQUEST_TEMPLATE.md",
   "/.github/workflows/release.yml",
   "/.github/workflows/deploy.yml",
