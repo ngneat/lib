@@ -89,7 +89,7 @@
     "lint-staged": "^9.2.0",
     "prettier": "^2.2.1",
     "semantic-release": "^17.4.1",
-    "standard-version": "^6.0.1",
+    "standard-version": "^8.0.1",
     "ts-jest": "^26.5.2"
   },
   "config": {
